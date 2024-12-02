@@ -34,3 +34,9 @@ This **Hotel Management System** is a desktop application built using **C# .NET*
    ```bash
    git clone https://github.com/vihagana99/Hotel_Manegment_System.git
    cd Hotel_Manegment_System
+
+## 👨‍💻 Author
+Vihagana99
+[GitHub Profile](https://github.com/vihagana99)
+
+
