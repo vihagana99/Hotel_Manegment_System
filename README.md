@@ -23,8 +23,8 @@ This **Hotel Management System** is a desktop application built using **C# .NET*
 
 ## 📱 Screenshots
 
-<img src="Screenshot1.jpg" alt="New Year Mobile App Screenshot" width="200">  
-<img src="Screenshot2.jpg" alt="New Year Mobile App Screenshot" width="200">  
+<img src="Screenshot1.png" alt="Hotel_Managment_System - Login Page" width="200"><img src="Screenshot2.png" alt="Hotel_Managment_System - Dashboard" width="200"><img src="Screenshot3.png" alt="Hotel_Managment_System - Check Out" width="200"><img src="Screenshot4.png" alt="Hotel_Managment_System - Coustomer Details" width="200">
+
 *A sneak peek of the app interface.*
 
 ---
