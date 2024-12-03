@@ -21,6 +21,14 @@ This **Hotel Management System** is a desktop application built using **C# .NET*
 
 ---
 
+## 📱 Screenshots
+
+<img src="Screenshot1.jpg" alt="New Year Mobile App Screenshot" width="200">  
+<img src="Screenshot2.jpg" alt="New Year Mobile App Screenshot" width="200">  
+*A sneak peek of the app interface.*
+
+---
+
 ## 📂 Project Details
 
 - **Prototype**: [Figma Design](https://www.figma.com/proto/zJFAaYe5y7XpRNEN0zQ6OO/Hotel-Management-System-in-C%23?node-id=1-102&t=4Nek0uYxWXo8vd9f-1&starting-point-node-id=1%3A2)  
